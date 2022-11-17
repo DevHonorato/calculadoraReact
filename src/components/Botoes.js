@@ -2,6 +2,7 @@ import React from 'react';
 import {View, TouchableOpacity, Text, Dimensions, StyleSheet} from 'react-native';
 // import { TouchableOpacity } from 'react-native-gesture-handler'
 
+
 const styles = StyleSheet.create({
     button: {
         fontSize: 40,
